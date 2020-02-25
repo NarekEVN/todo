@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NarekEVN/todo/static/css/main.6c0ac2a6.chunk.css",
+    "main.js": "/NarekEVN/todo/static/js/main.85fe67b2.chunk.js",
+    "main.js.map": "/NarekEVN/todo/static/js/main.85fe67b2.chunk.js.map",
+    "runtime-main.js": "/NarekEVN/todo/static/js/runtime-main.1faa5a41.js",
+    "runtime-main.js.map": "/NarekEVN/todo/static/js/runtime-main.1faa5a41.js.map",
+    "static/js/2.9bb6dbd0.chunk.js": "/NarekEVN/todo/static/js/2.9bb6dbd0.chunk.js",
+    "static/js/2.9bb6dbd0.chunk.js.map": "/NarekEVN/todo/static/js/2.9bb6dbd0.chunk.js.map",
+    "index.html": "/NarekEVN/todo/index.html",
+    "precache-manifest.379c0538facb9254720dd7a015bfa446.js": "/NarekEVN/todo/precache-manifest.379c0538facb9254720dd7a015bfa446.js",
+    "service-worker.js": "/NarekEVN/todo/service-worker.js",
+    "static/css/main.6c0ac2a6.chunk.css.map": "/NarekEVN/todo/static/css/main.6c0ac2a6.chunk.css.map",
+    "static/js/2.9bb6dbd0.chunk.js.LICENSE.txt": "/NarekEVN/todo/static/js/2.9bb6dbd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1faa5a41.js",
+    "static/js/2.9bb6dbd0.chunk.js",
+    "static/css/main.6c0ac2a6.chunk.css",
+    "static/js/main.85fe67b2.chunk.js"
+  ]
+}
